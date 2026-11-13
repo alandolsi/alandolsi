@@ -11,7 +11,7 @@ I'm a firm believer in the power of open-source collaboration. You'll find me ac
 I believe in the strength of community and the value of networking. Whether you're a fellow developer, a potential collaborator, or simply someone passionate about technology, I invite you to connect with me. Feel free to reach out via GitHub, LinkedIn, and let's explore opportunities to learn, grow, and create together. Thank You Thank you for visiting my GitHub profile and taking the time to learn more about me. I'm excited to embark on this journey of exploration and innovation together. Let's write code, solve problems, and make a positive impact in the world of technology!
 
 *   🌍  I'm based in Rosenheim / München
-*   🖥️  See my portfolio at [Landolsi Webdesign](http://www.landolsi.de)
+*   🖥️  See my portfolio at [Landolsi Digital](http://www.landolsi.de)
 *   ✉️  You can contact me at [abdellatif@landolsi.de](mailto:abdellatif@landolsi.de)
 *   🧠  I'm learning ReactJS / NextJS
 *   🤝  I'm open to collaborating on ReactJS / NextJS / TYPO3 / Shopware / WordPress
